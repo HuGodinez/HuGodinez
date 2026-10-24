@@ -161,6 +161,22 @@ Collection of Python-based analytical tools for data preparation, reporting auto
 
 ---
 
+## 🏆 Certifications
+
+- Microsoft Power BI
+- Microsoft Power Platform
+- Data Analytics
+- Business Intelligence
+
+---
+
+## 🌎 Languages
+
+- Spanish 🇲🇽 Native
+- English 🇺🇸 Professional Working Proficiency
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
