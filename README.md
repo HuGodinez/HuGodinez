@@ -12,21 +12,37 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Hugo Godinez! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hugo Godinez 
 *Data & Business Analyst specialized in Sales Analytics, Business Intelligence and Process Automation.*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Currently working at PepsiCo within the Sales Reporting & Analytics team, supporting commercial operations across Andean, Caricam and Mexico regions.
+<p align="left">
+
+I'm a Data & Business Analyst currently working at PepsiCo within the Sales Reporting & Analytics team.
+
+I specialize in transforming complex business data into actionable insights that support commercial decision-making across multiple markets including Mexico, Andean Region and Caricam.
+
+My experience combines business understanding with technology, allowing me to design scalable solutions that improve operational efficiency, automate reporting processes and provide visibility to key performance indicators.
+
+### Areas of Focus
+
+• Sales Analytics
+• Business Intelligence
+• Reporting Automation
+• Process Improvement
+• Data Visualization
+• Business Operations
+• Digital TransformationCurrently working at PepsiCo within the Sales Reporting & Analytics team, supporting commercial operations across Andean, Caricam and Mexico regions.
 I help transform business data into actionable insights through dashboard development, reporting automation and data driven decision making</p>
 
 Areas of Expertise
 
 📊 Sales Analytics
 
-📈 Business Intelligence
+📈 Business Intelligence / Operations
 
-🤖 Process Automation
+🤖 Process Automation / Improvement
 
 📋 Reporting Automation
 
@@ -34,26 +50,49 @@ Areas of Expertise
 
 🏢 Business Operations
 
+🤖 Digital Transformation
 
-Tech Stack
+
+🚀 Business Impact
+
+✔ Automated recurring reporting processes reducing manual effort by 80%
+
+✔ Developed +10 Power BI dashboards used for commercial performance monitoring
+
+✔ Improved data visibility for regional stakeholders through centralized reporting
+
+✔ Supported sales teams with KPI tracking and performance analysis across 8 countries
+
+✔ Designed automation solutions using Power Automate and Power AppsTech Stack
+
+## 🛠 Tech Stack
+
+### Analytics & BI
 
 Power BI
-
+Excel
+DAX
+Power Query
 Python
 
+### Automation
+
 Power Automate
-
 Power Apps
-
-Excel
-
 SharePoint
 
+### Data
+
 SAP
+SQL
+DuckDB
+
+### Development
 
 Git
-
+GitHub
 VS Code
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
