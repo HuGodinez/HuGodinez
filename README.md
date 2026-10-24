@@ -13,19 +13,47 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Hugo Godinez! 
-*Sales Data Analyst*
+*Data & Business Analyst specialized in Sales Analytics, Business Intelligence and Process Automation.*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">As a Data Analyst, I specialize in designing insightful Power BI dashboards, developing and implementing process automation solutions, and leveraging tools such as VS Code, Python, and Power Automate to enhance efficiency and enable data-driven decision-making. </p>
+<p align="left">Currently working at PepsiCo within the Sales Reporting & Analytics team, supporting commercial operations across Andean, Caricam and Mexico regions.
+I help transform business data into actionable insights through dashboard development, reporting automation and data driven decision making</p>
 
-- 🌱 I’m currently learning Python, I believe that everyday is a learning opportunity.
-- 🔭 I'm currently supporting sales team across the Andean and Caricam regions.
-<!-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+Areas of Expertise
+
+📊 Sales Analytics
+
+📈 Business Intelligence
+
+🤖 Process Automation
+
+📋 Reporting Automation
+
+📉 Data Visualization
+
+🏢 Business Operations
+
+
+Tech Stack
+
+Power BI
+
+Python
+
+Power Automate
+
+Power Apps
+
+Excel
+
+SharePoint
+
+SAP
+
+Git
+
+VS Code
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -37,7 +65,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,django,git,vscode,duckdb,excel,powerbi,powerautomate,powerapps,sharepoint,sap,&perline=10"  />
 </p>
 <br />
 
